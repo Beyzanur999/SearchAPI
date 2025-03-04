@@ -1,0 +1,36 @@
+﻿@model IEnumerable<SemanticKernelProductRanking.Models.Product>
+
+@{
+    ViewData["Title"] = "Ürün Arama";
+}
+
+<h2>Ürün Arama</h2>
+
+<form method="get" action="/">
+    <input type="text" name="keyword" placeholder="Anahtar kelime girin" required />
+    <button type="submit">Ara</button>
+</form>
+
+@if (Model.Any())
+{
+    <h3>Sonuçlar:</h3>
+    <table border="1">
+        <tr>
+            <th>Ürün Adı</th>
+            <th>Kategori</th>
+            <th>Açıklama</th>
+        </tr>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Category</td>
+                <td>@product.Description</td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <p>Arama sonuçları bulunamadı.</p>
+}

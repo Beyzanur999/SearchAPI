@@ -1,0 +1,8 @@
+C:\Users\bnura\source\repos\SemanticKernelProductRanking\SemanticKernelProductRanking\obj\Debug\net8.0\SemanticKernelProductRanking.csproj.AssemblyReference.cache
+C:\Users\bnura\source\repos\SemanticKernelProductRanking\SemanticKernelProductRanking\obj\Debug\net8.0\SemanticKernelProductRanking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bnura\source\repos\SemanticKernelProductRanking\SemanticKernelProductRanking\obj\Debug\net8.0\SemanticKernelProductRanking.AssemblyInfoInputs.cache
+C:\Users\bnura\source\repos\SemanticKernelProductRanking\SemanticKernelProductRanking\obj\Debug\net8.0\SemanticKernelProductRanking.AssemblyInfo.cs
+C:\Users\bnura\source\repos\SemanticKernelProductRanking\SemanticKernelProductRanking\obj\Debug\net8.0\SemanticKernelProductRanking.csproj.CoreCompileInputs.cache
+C:\Users\bnura\source\repos\SemanticKernelProductRanking\SemanticKernelProductRanking\obj\Debug\net8.0\SemanticKernelProductRanking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bnura\source\repos\SemanticKernelProductRanking\SemanticKernelProductRanking\obj\Debug\net8.0\SemanticKernelProductRanking.RazorAssemblyInfo.cache
+C:\Users\bnura\source\repos\SemanticKernelProductRanking\SemanticKernelProductRanking\obj\Debug\net8.0\SemanticKernelProductRanking.RazorAssemblyInfo.cs
